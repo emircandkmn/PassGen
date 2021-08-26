@@ -1,7 +1,7 @@
 # PassGen
-PassGen is a 'pass'word 'gen'erator program ^^
+PassGen is a password generator program ^^
 
 - Tr/En language option
 - Dark/Light theme option
 
-![alt text](https://github.com/[emircandkmn]/[PassGen]/blob/[main]/PassGen.gif?raw=true)
+![](https://github.com/[emircandkmn]/[PassGen]/blob/[main]/PassGen.gif?raw=true)
