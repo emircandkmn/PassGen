@@ -1,0 +1,10 @@
+Copy_btn_setStyleSheet = ("QPushButton#Copy_btn{\n"
+                                        "    color: rgb(11, 255, 7);\n"
+                                        "    border:3px solid rgb(11, 255, 7);\n"
+                                        "    border-radius:30px;\n"
+                                        "}\n"
+                                        "QPushButton#Copy_btn:pressed{\n"
+                                        "    color: white;\n"
+                                        "    border:3px solid white;\n"
+                                        "    border-radius: 30px;\n"
+                                        "}")
